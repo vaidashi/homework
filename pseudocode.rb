@@ -1,3 +1,5 @@
+##Ashish Vaid 5/2/17
+
 ## Take shoe and hold left lace in left hand and right lace in right hand
 ## Curl left lace in half and wrap right lace round curled left lace
 ## Pull right lace through loop in left curled lace
