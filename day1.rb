@@ -51,19 +51,19 @@
 # puts team.length/4
 
 
-# def greeting
-#   #starts with initial Happy
-#   #loop through age - 1 and then add corresponding happy
-#   #concludes with birthday
-#   age = 3
-#   happy_birthday = "Happy"
-#   (age - 1).times do
-#     happy_birthday = happy_birthday + " happy"
-#   end
-#   puts happy_birthday + " birthday!"
-# end
-#
-# greeting
+def greeting
+  #starts with initial Happy
+  #loop through age - 1 and then add corresponding happy
+  #concludes with birthday
+  age = 3
+  happy_birthday = "Happy"
+  (age - 1).times do
+    happy_birthday = happy_birthday + " happy"
+  end
+  puts happy_birthday + " birthday!"
+end
+
+greeting
 
 ##
 def compression(noun)

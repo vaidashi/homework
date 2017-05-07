@@ -23,24 +23,24 @@
 
 
 
-# puts "Choose any number between 1 and 1000 to see SuperFizzBuzz >"
-# input  = gets.chomp.to_i
-#
-#
-#     if input % 7 == 0 and input % 5 == 0 and input % 3 == 0
-#       puts "SuperFizzBuzz"
-#     elsif input % 3 == 0 and input % 7 == 0
-#       puts "SuperFizz"
-#     elsif input % 5 == 0 and input % 7 == 0
-#       puts "SuperBuzz"
-#     elsif input % 3 == 0 and input % 5 == 0
-#       puts "FizzBuzz"
-#     elsif input % 3 == 0
-#       puts "Fizz"
-#     elsif input % 5 == 0
-#       puts "Buzz"
-#     elsif input % 7 == 0
-#       puts "Super"
-#     else
-#       puts input
-#     end
+puts "Choose any number between 1 and 1000 to see SuperFizzBuzz >"
+input  = gets.chomp.to_i
+
+
+    if input % 7 == 0 and input % 5 == 0 and input % 3 == 0
+      puts "SuperFizzBuzz"
+    elsif input % 3 == 0 and input % 7 == 0
+      puts "SuperFizz"
+    elsif input % 5 == 0 and input % 7 == 0
+      puts "SuperBuzz"
+    elsif input % 3 == 0 and input % 5 == 0
+      puts "FizzBuzz"
+    elsif input % 3 == 0
+      puts "Fizz"
+    elsif input % 5 == 0
+      puts "Buzz"
+    elsif input % 7 == 0
+      puts "Super"
+    else
+      puts input
+    end
